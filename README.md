@@ -2,28 +2,41 @@
 
 ![Celular con reacciones a su alrededor y pantalla con sorpresas referenciando al juego Amigo Secreto](https://github.com/user-attachments/assets/c452d808-0f3d-4d90-9a4d-59b50f202175)
 
-##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+# Insignias 
+- [Insignias](#insignias)
 
-*[Insignias](#insignias)
 
-*[Índice](#índice)
+# Índice
+- [Descripción del proyecto](#descripción-del-proyecto)
+- [Estado del proyecto](#estado-del-proyecto)
+- [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
+- [Acceso al proyecto](#acceso-al-proyecto)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Personas Contribuyentes](#personas-contribuyentes)
+- [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
+- [Licencia](#licencia)
+- [Conclusión](#conclusión)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+───        ⋆⋅☆⋅⋆        ──
 
-*[Estado del proyecto](#Estado-del-proyecto)
+## Descripción del proyecto
+### Proyecto que 
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+## Estado del proyecto
 
-*[Acceso al proyecto](#acceso-proyecto)
+## Características de la aplicación y demostración
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+## Acceso al proyecto
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+## Tecnologías utilizadas
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+## Personas Contribuyentes
 
-* [Licencia](#licencia)
+## Personas Desarrolladores del Proyecto
 
-* *[Conclusión](#conclusión)
+## Licencia
+
+## Conclusión
+
+
