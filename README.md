@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/840f183c-60fc-4310-8b55-b4bae65b3d0c)<h1 align="center"> Juego Amigo Secreto</h1>
+<h1 align="center"> Juego Amigo Secreto</h1>
 
 ![Celular con reacciones a su alrededor y pantalla con sorpresas referenciando al juego Amigo Secreto](https://github.com/user-attachments/assets/c452d808-0f3d-4d90-9a4d-59b50f202175)
 
