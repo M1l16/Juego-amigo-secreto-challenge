@@ -15,7 +15,6 @@
 - [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
-- [Licencia](#licencia)
 - [Conclusión](#conclusión)
 
 ───        ⋆⋅☆⋅⋆        ──
@@ -35,7 +34,7 @@
 - `Interfaz amigable`:  Diseño intuitivo y atractivo que facilita la interacción del usuario.
 
 ## Acceso al proyecto
-:paperclip:  
+:paperclip: 
 
 ## Tecnologías utilizadas
 :white_check_mark: JavaScript
@@ -46,7 +45,7 @@
 :white_check_mark: GitHub
 
 ## Personas Desarrolladores del Proyecto
-width=115><br><sub>M1l16</sub>]()
+[Visita mi GitHub](https://github.com/M1l16)
 
 ## Conclusión
 :gift: ¡Diviértanse y que comience la emoción!" :confetti_ball:
