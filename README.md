@@ -34,7 +34,7 @@
 - `Interfaz amigable`:  Diseño intuitivo y atractivo que facilita la interacción del usuario.
 
 ## Acceso al proyecto
-:paperclip: 
+:paperclip: https://m1l16.github.io/Juego-amigo-secreto-challenge/
 
 ## Tecnologías utilizadas
 :white_check_mark: JavaScript
